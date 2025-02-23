@@ -15,4 +15,4 @@ spec:
       targetPort: 8080
       nodePort: 30000
   selector:
-    app: app.kubernetes.io/name=jenkins # 匹配 helm chart 的标签
+    app.kubernetes.io/name: jenkins # 匹配 helm chart 的标签
