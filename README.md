@@ -1,5 +1,7 @@
 云原生微服务架构实战项目
 
+详细配置请看 [wiki](https://github.com/strayca7/shop-flashsale/wiki)。
+
 # 主要组件
 语言：Go
 
